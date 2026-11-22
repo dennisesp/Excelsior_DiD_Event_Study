@@ -1,4 +1,4 @@
-``# Replicating the Excelsior Scholarship's Enrollment Effects
+# Replicating the Excelsior Scholarship's Enrollment Effects
 
 *A partial replication of Joseph E. Howard's (2026) dissertation, **Excelsior Scholarship and College Enrollment in New York: Evidence of Unexpected Gains**.*
 
