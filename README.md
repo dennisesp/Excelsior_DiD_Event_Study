@@ -1,4 +1,4 @@
-# Replicating the Excelsior Scholarship's Enrollment Effects
+``# Replicating the Excelsior Scholarship's Enrollment Effects
 
 *A partial replication of Joseph E. Howard's (2026) dissertation, **Excelsior Scholarship and College Enrollment in New York: Evidence of Unexpected Gains**.*
 
@@ -143,7 +143,7 @@ The event-study models reported below include institution and year fixed effects
 
 After adding tuition and lagged county unemployment, my estimated treatment coefficients decreased across all four models. The coefficients remained positive, although none were statistically significant at the 5% level.
 
-Overall, I find a similar pattern to Howard's DiD results. Where the estimates suggest increases in enrollment, however the models still have substantial uncertainty demonstrated by.. [need to be more specific here].
+Overall, I find a similar pattern to Howard's DiD results demonstrated by standard errors close to or larger than the coefficients and 95% confidence intervals that include zero for every adjusted model (p = 0.196 to 0.444).
 
 #### DiD Tables: My Findings and Howard's Tables 10 and 11
 
